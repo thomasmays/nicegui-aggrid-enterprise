@@ -1,7 +1,7 @@
 [project]
-name = "nicegui-aggrid-enterprise"
-version = "0.1.5"
-description = "Use Aggrid Enterprise in your NiceGUI app."
+name = "nicegui-aggrid-enterprise-Shiftmatic3"
+version = "0.1"
+description = "Use Aggrid Enterprise in your NiceGUI app. Ag-grid upgraded to 34.1.2."
 authors = [{name = "Alex Pilon", email="alex.pilon@gmail.com"}]
 license = "MIT"
 readme = "README.md"
