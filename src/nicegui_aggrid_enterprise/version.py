@@ -1,3 +1,1 @@
-import importlib.metadata
-
-__version__: str = importlib.metadata.version("nicegui_aggrid_enterprise")
+__version__: str = "0.1.0"
